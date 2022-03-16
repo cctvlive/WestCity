@@ -13,11 +13,8 @@ CHINA_VIP_CLUB33@CECCCC.COM
 ======
 
 集市公告
-```bash
 
 [西部集市](https://westcity.cecccc.com)  [东部集市](https://eastcity.cecccc.com)
-
-```
 
 集市平仓
 ```bash
